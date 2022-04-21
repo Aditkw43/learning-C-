@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/app.csproj": {}
+  },
+  "projects": {
+    "/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/app.csproj",
+        "projectName": "app",
+        "projectPath": "/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/app.csproj",
+        "packagesPath": "/home/aditkw15/.nuget/packages/",
+        "outputPath": "/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aditkw15/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

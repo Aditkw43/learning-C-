@@ -1,0 +1,16 @@
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app.deps.json
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app.runtimeconfig.json
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app.runtimeconfig.dev.json
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app.dll
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/ref/app.dll
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/app.pdb
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.csproj.AssemblyReference.cache
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.AssemblyInfoInputs.cache
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.AssemblyInfo.cs
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.csproj.CoreCompileInputs.cache
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.dll
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/ref/app.dll
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.pdb
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/obj/Debug/net5.0/app.genruntimeconfig.cache
