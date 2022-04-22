@@ -1,0 +1,5 @@
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/publish/app
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/publish/app.dll
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/publish/app.deps.json
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/publish/app.runtimeconfig.json
+/home/aditkw15/Documents/Refactory/Study/C#/learning-C-Sharp/app/bin/Debug/net5.0/publish/app.pdb
